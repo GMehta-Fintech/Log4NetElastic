@@ -1,0 +1,10 @@
+2020-04-21 15:14:44,298 [1] INFO ClassLib.ClassLogger - Hello logging world!
+2020-04-22 14:52:13,894 [1] INFO TestConsol.Program - Hello Info world!
+2020-04-22 14:52:13,901 [1] ERROR TestConsol.Program - Hello Error world!
+2020-04-22 14:52:13,901 [1] WARN TestConsol.Program - Hello Warn world!
+2020-04-22 14:52:13,901 [1] INFO TestConsol.Program - Hello Info world!
+2020-04-22 14:52:13,901 [1] ERROR TestConsol.Program - Hello Error world!
+2020-04-22 14:52:13,901 [1] WARN TestConsol.Program - Hello Warn world!
+2020-04-22 14:52:13,901 [1] INFO TestConsol.Program - Hello Info world!
+2020-04-22 14:52:13,901 [1] ERROR TestConsol.Program - Hello Error world!
+2020-04-22 14:52:13,901 [1] WARN TestConsol.Program - Hello Warn world!
